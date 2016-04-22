@@ -29,9 +29,9 @@ OpenMP nevertheless.
 
 We will use the following tools:
 
-* [CLion] - CUDA framework
+* [CUDA] - CUDA framework
 * [CLion] - Ultimate Edition, with educational license; a professional IDE developed by JetBrains
-* [Eclipse] - 
+* [Eclipse] - Community IDE supported by the Eclipse Working Group
 * ...
 
 We are still considering what license to use for the intellectual property, but we foresee to
@@ -42,11 +42,11 @@ make this code available and *open source*. The [public repository][github] is o
 On the project main directory:
 
 ```sh
-$ git clone https://github.com/gmarciani/performa.git
+$ git clone https://github.com/Panopticode/MCsquared.git
 ```
 or, with SSH
 ```sh
-$ git clone git@github.com:gmarciani/performa.git
+$ git clone git@github.com:Panopticode/MCsquared.git
 ```
 
 ### Todos
@@ -66,6 +66,7 @@ The MIT License (see LICENSE)
    [github]: <https://github.com/gmarciani/performa>
    [massimo bernaschi]: <http://www.iac.rm.cnr.it/~massimo/Massimo_Bernaschi_home_page/Welcome.html>
    [pmc]: <http://www.iac.rm.cnr.it/~massimo/PMC.html>
-   [CLion]: <https://www.jetbrains.com/clion/?fromMenu>
+   [CUDA]: <http://www.nvidia.com/object/cuda_home_new.html>
+   [CLion]: <https://www.jetbrains.com/clion/>
    [Eclipse]: <http://www.eclipse.org/>
 
