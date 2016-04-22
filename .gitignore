@@ -30,3 +30,15 @@
 
 # Debug files
 *.dSYM/
+
+#Dolphin files
+.directory
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij IDEA files
+.idea/
+*.iws
