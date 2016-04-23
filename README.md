@@ -42,11 +42,11 @@ make this code available and *open source*. The [public repository][github] is o
 On the project main directory:
 
 ```sh
-$ git clone https://github.com/Panopticode/MCsquared.git
+$ git clone https://github.com/Panopticode/mc-squared.git
 ```
 or, with SSH
 ```sh
-$ git clone git@github.com:Panopticode/MCsquared.git
+$ git clone git@github.com:Panopticode/mc-squared.git
 ```
 
 ### Todos
@@ -63,7 +63,7 @@ The MIT License (see LICENSE)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [github]: <https://github.com/gmarciani/performa>
+   [github]: <https://github.com/Panopticode/mc-squared>
    [massimo bernaschi]: <http://www.iac.rm.cnr.it/~massimo/Massimo_Bernaschi_home_page/Welcome.html>
    [pmc]: <http://www.iac.rm.cnr.it/~massimo/PMC.html>
    [CUDA]: <http://www.nvidia.com/object/cuda_home_new.html>
